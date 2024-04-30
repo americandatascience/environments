@@ -4,22 +4,31 @@ All GPU-configured environments American Data Science offers with community exam
 
 ## AI
 - [ai](./ai): Environment equipped with AI tools and SDKs like AlphAI, OpenAI/Anthropic/Cohere SDKs, Scikit Learn, pandas, and numpy.
+
 <a target="_blank" href="https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fai/quickstart.ipynb&branch=main"> <img src="https://dashboard.amdatascience.com/images/shieldio-badge.svg" alt="Open In American Data Science"/> </a>
 - [anthropic](./anthropic): Environment equipped with the SDKs and tools for working with the Anthropic AI models like Claude, a powerful tool for natural language processing tasks.
+
 <a target="_blank" href="https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fanthropic/quickstart.ipynb&branch=main"> <img src="https://dashboard.amdatascience.com/images/shieldio-badge.svg" alt="Open In American Data Science"/> </a>
 - [cohere](./cohere): Environment set up with the SDKs and tools for working with the Cohere AI model, a language model that can generate human-like text.
+
 <a target="_blank" href="https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fcohere/quickstart.ipynb&branch=main"> <img src="https://dashboard.amdatascience.com/images/shieldio-badge.svg" alt="Open In American Data Science"/> </a>
 - [fireworks](./fireworks): Environment equipped with Fireworks AI tools, designed for serving generative AI models and tasks.
+
 <a target="_blank" href="https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Ffireworks/quickstart.ipynb&branch=main"> <img src="https://dashboard.amdatascience.com/images/shieldio-badge.svg" alt="Open In American Data Science"/> </a>
 - [langchain](./langchain): Environment tailored for working with the Langchain package, including OpenAI libraries and Google tools.
+
 <a target="_blank" href="https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Flangchain/quickstart.ipynb&branch=main"> <img src="https://dashboard.amdatascience.com/images/shieldio-badge.svg" alt="Open In American Data Science"/> </a>
 - [mistralai](./mistralai): Environment equipped with the Mistral AI SDKs and tools for generating high-quality text with their models and API.
+
 <a target="_blank" href="https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fmistralai/quickstart.ipynb&branch=main"> <img src="https://dashboard.amdatascience.com/images/shieldio-badge.svg" alt="Open In American Data Science"/> </a>
 - [openai](./openai): Environment for OpenAI models and API such as GPT3, ChatGPT, including PyTorch, OpenAI Python library, and Scikit Learn.
+
 <a target="_blank" href="https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fopenai/quickstart.ipynb&branch=main"> <img src="https://dashboard.amdatascience.com/images/shieldio-badge.svg" alt="Open In American Data Science"/> </a>
 - [perplexity](./perplexity): Environment for using Perplexity's generative AI models and LLM inferencing with pplx-ai.
+
 <a target="_blank" href="https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fperplexity/quickstart.ipynb&branch=main"> <img src="https://dashboard.amdatascience.com/images/shieldio-badge.svg" alt="Open In American Data Science"/> </a>
 - [replicate](./replicate): Environment set up for using Replicate's AI and API for deploying custom models, running inference, and fine-tuning open-source models.
+
 <a target="_blank" href="https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Freplicate/quickstart.ipynb&branch=main"> <img src="https://dashboard.amdatascience.com/images/shieldio-badge.svg" alt="Open In American Data Science"/> </a>
 
 ## Vector Databases
