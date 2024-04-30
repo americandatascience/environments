@@ -4,7 +4,9 @@ All GPU-configured environments American Data Science offers with community exam
 
 ## AI
 - [ai](./ai): Environment equipped with AI tools and SDKs like AlphAI, OpenAI/Anthropic/Cohere SDKs, Scikit Learn, pandas, and numpy.
+<a target="_blank" href="https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fai/quickstart.ipynb&branch=main"> <img src="https://dashboard.amdatascience.com/images/shieldio-badge.svg" alt="Open In American Data Science"/> </a>
 - [anthropic](./anthropic): Environment equipped with the SDKs and tools for working with the Anthropic AI models like Claude, a powerful tool for natural language processing tasks.
+<a target="_blank" href="https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fanthropic/quickstart.ipynb&branch=main"> <img src="https://dashboard.amdatascience.com/images/shieldio-badge.svg" alt="Open In American Data Science"/></a>
 - [cohere](./cohere): Environment set up with the SDKs and tools for working with the Cohere AI model, a language model that can generate human-like text.
 - [fireworks](./fireworks): Environment equipped with Fireworks AI tools, designed for serving generative AI models and tasks.
 - [langchain](./langchain): Environment tailored for working with the Langchain package, including OpenAI libraries and Google tools.
