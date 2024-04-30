@@ -3,8 +3,8 @@
 All GPU-configured environments American Data Science offers with community example notebooks.
 
 ## AI
-| Environment | Description | Link |
-|-------------|-------------|------|
+| Environment | Description | Quickstart |
+|-------------|-------------|------------|
 | [ai](./ai/ai) | Environment equipped with AI tools and SDKs like AlphAI, OpenAI/Anthropic/Cohere SDKs, Scikit Learn, pandas, and numpy. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fai/ai/quickstart.ipynb&branch=main) |
 | [anthropic](./ai/anthropic) | Environment equipped with the SDKs and tools for working with the Anthropic AI models like Claude, a powerful tool for natural language processing tasks. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fai/anthropic/quickstart.ipynb&branch=main) |
 | [cohere](./ai/cohere) | Environment set up with the SDKs and tools for working with the Cohere AI model, a language model that can generate human-like text. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fai/cohere/quickstart.ipynb&branch=main) |
@@ -16,8 +16,8 @@ All GPU-configured environments American Data Science offers with community exam
 | [replicate](./ai/replicate) | Environment set up for using Replicate's AI and API for deploying custom models, running inference, and fine-tuning open-source models. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fai/replicate/quickstart.ipynb&branch=main) |
 
 ## Vector Databases
-| Environment | Description | Link |
-|-------------|-------------|------|
+| Environment | Description | Quickstart |
+|-------------|-------------|------------|
 | [vectordb](./vector-databases/vectordb) | Environment equipped with vectorDB tools and clients like torch, transformers, pinecone, weaviate, milvus, chroma, qdrant, and fiass. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fvector-databases/vectordb/quickstart.ipynb&branch=main) |
 | [pinecone](./vector-databases/pinecone) | Environment for Pinecone's powerful vector space, including PyTorch, Haystack, Transformers, Cohere, and the OpenAI Python library. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fvector-databases/pinecone/quickstart.ipynb&branch=main) |
 | [milvus](./vector-databases/milvus) | Environment set up for Milvus, an open-source vector database that handles massive-scale vector data and provides fast vector search and analytics capabilities. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fvector-databases/milvus/quickstart.ipynb&branch=main) |
@@ -28,8 +28,8 @@ All GPU-configured environments American Data Science offers with community exam
 | [qdrant](./vector-databases/qdrant) | Environment designed for Qdrant, an open-source vector similarity search engine with extended filtering capabilities. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fvector-databases/qdrant/quickstart.ipynb&branch=main) |
 
 ## Deep Learning and Tensors
-| Environment | Description | Link |
-|-------------|-------------|------|
+| Environment | Description | Quickstart |
+|-------------|-------------|------------|
 | [torch](./deep-learning/torch) | Environment equipped with PyTorch, a powerful open-source tensor library for training neural network models written for Python. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fdeep-learning/torch/quickstart.ipynb&branch=main) |
 | [jax](./deep-learning/jax) | Environment set up for JAX, a library for accelerator-oriented array computation and program transformation, designed for high-performance numerical computing and large-scale machine learning. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fdeep-learning/jax/quickstart.ipynb&branch=main) |
 | [tensorflow](./deep-learning/tensorflow) | Environment designed for TensorFlow, an end-to-end open-source tensor library for deep learning in Python. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fdeep-learning/tensorflow/quickstart.ipynb&branch=main) |
@@ -37,8 +37,8 @@ All GPU-configured environments American Data Science offers with community exam
 | [fastai](./deep-learning/fastai) | Environment for Fast.ai tools and PyTorch, ideal for training and running inference on neural network models. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fdeep-learning/fastai/quickstart.ipynb&branch=main) |
 
 ## Data Science and Machine Learning
-| Environment | Description | Link |
-|-------------|-------------|------|
+| Environment | Description | Quickstart |
+|-------------|-------------|------------|
 | [datascience](./data-science/datascience) | Environment equipped with tools like xgboost, lightgbm, scikit-learn, and scipy, pandas, numpy, matplotlib, seaborn, numba, and cupy. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fdata-science/datascience/quickstart.ipynb&branch=main) |
 | [rapidsai](./data-science/rapidsai) | Environment designed for RAPIDS.ai tools like cuDF, cuML, cuGraph, all powered by NVIDIA GPUs. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fdata-science/rapidsai/quickstart.ipynb&branch=main) |
 | [cupy](./data-science/cupy) | Environment set up for CuPy, a GPU-accelerated library for numerical computations. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fdata-science/cupy/quickstart.ipynb&branch=main) |
@@ -49,8 +49,8 @@ All GPU-configured environments American Data Science offers with community exam
 | [lightgbm](./data-science/lightgbm) | Environment for LightGBM, a gradient boosting framework that uses tree-based learning algorithms. Supports parallel, distributed, and GPU learning. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fdata-science/lightgbm/quickstart.ipynb&branch=main) |
 
 ## Natural Language Processing
-| Environment | Description | Link |
-|-------------|-------------|------|
+| Environment | Description | Quickstart |
+|-------------|-------------|------------|
 | [nlp](./nlp/nlp) | Environment equipped with NLP tools and SDKs like spacy, nltk, gensim, and transformers. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fnlp/nlp/quickstart.ipynb&branch=main) |
 | [spacy](./nlp/spacy) | Environment equipped with the tools and SDKs for working with spaCy, a powerful library for advanced Natural Language Processing (NLP) in Python. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fnlp/spacy/quickstart.ipynb&branch=main) |
 | [nltk](./nlp/nltk) | Environment equipped with the tools and SDKs for working with NLTK, a leading platform for building Python programs to work with human language data. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fnlp/nltk/quickstart.ipynb&branch=main) |
@@ -58,8 +58,8 @@ All GPU-configured environments American Data Science offers with community exam
 | [flair](./nlp/flair) | Environment equipped with the tools and SDKs for working with Flair, a powerful NLP library. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fnlp/flair/quickstart.ipynb&branch=main) |
 
 ## Computer Vision
-| Environment | Description | Link |
-|-------------|-------------|------|
+| Environment | Description | Quickstart |
+|-------------|-------------|------------|
 | [computervision](./computer-vision/computervision) | Environment equipped with computer vision tools like opencv, pillow, and transformers. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fcomputer-vision/computervision/quickstart.ipynb&branch=main) |
 | [timm](./computer-vision/timm) | Environment equipped with the tools and SDKs for working with PyTorch Image Models (TIMM), a collection of image models, layers, utilities, optimizers, schedulers, data-loaders / augmentations, and reference training / validation scripts. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fcomputer-vision/timm/quickstart.ipynb&branch=main) |
 | [opencv](./computer-vision/opencv) | Environment equipped with the tools and SDKs for working with OpenCV, a library of programming functions mainly aimed at real-time computer vision. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fcomputer-vision/opencv/quickstart.ipynb&branch=main) |
@@ -67,15 +67,15 @@ All GPU-configured environments American Data Science offers with community exam
 
 
 ## Model Deployment
-| Environment | Description | Link |
-|-------------|-------------|------|
+| Environment | Description | Quickstart |
+|-------------|-------------|------------|
 | [gradio](./model-deployment/gradio) | Environment equipped with the tools and SDKs for working with Gradio, a library for quickly creating customizable UI components around your models. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fmodel-deployment/gradio/quickstart.ipynb&branch=main) |
 | [modelbit](./model-deployment/modelbit) | Environment for the Modelbit package and ecosystem, including modelbit and exploratory packages like sklearn. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fmodel-deployment/modelbit/quickstart.ipynb&branch=main) |
 | [streamlit](./model-deployment/streamlit) | Environment equipped with the tools and SDKs for working with Streamlit, an open-source app framework for Machine Learning and Data Science teams. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fmodel-deployment/streamlit/quickstart.ipynb&branch=main) |
 
 ## Data Visualization
-| Environment | Description | Link |
-|-------------|-------------|------|
+| Environment | Description | Quickstart |
+|-------------|-------------|------------|
 | [datavisualization](./data-visualization/datavisualization) | Environment equipped with tools for data visualization like matplotlib, seaborn, plotly, hvplot, datashader, and dash. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fdata-visualization/datavisualization/quickstart.ipynb&branch=main) |
 | [hvplot](./data-visualization/hvplot) | Environment equipped with the tools and SDKs for working with hvPlot, a high-level plotting API for the PyData ecosystem built on HoloViews. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fdata-visualization/hvplot/quickstart.ipynb&branch=main) |
 | [datashader](./data-visualization/datashader) | Environment equipped with the tools and SDKs for working with Datashader, a data rasterization pipeline for automating the process of creating meaningful representations of large amounts of data. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fdata-visualization/datashader/quickstart.ipynb&branch=main) |
@@ -87,8 +87,8 @@ All GPU-configured environments American Data Science offers with community exam
 | [matplotlib](./data-visualization/matplotlib) | Environment for Matplotlib, a plotting library for the Python programming language and its numerical mathematics extension NumPy. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fdata-visualization/matplotlib/quickstart.ipynb&branch=main) |
 
 ## Other
-| Environment | Description | Link |
-|-------------|-------------|------|
+| Environment | Description | Quickstart |
+|-------------|-------------|------------|
 | [minimal](./other/minimal) | A bare-bones Python environment, perfect for starting from scratch. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fother/minimal/quickstart.ipynb&branch=main) |
 | [latex](./other/latex) | Research environment for live editing and writing in .tex files with the Jupyter Lab LaTeX extension. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fother/latex/quickstart.ipynb&branch=main) |
 | [pycse](./other/pycse) | Environment for the pycse python package, ideal for experimenting and learning computational skills with python. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fother/pycse/quickstart.ipynb&branch=main) |
