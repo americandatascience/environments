@@ -5,4 +5,12 @@ This environment is equipped with pycse.
 
 ## Community Notebooks
 
-- [Quickstart Notebook](./quickstart.ipynb)
+| Notebook | Description |
+| -------- | ----------- |
+| [Quickstart Notebook](./quickstart.ipynb) | A quickstart guide for this environment. |
+
+### Third-party Notebooks and Repositories
+
+| Notebook | Repository | Description |
+| -------- | ---------- | ----------- |
+

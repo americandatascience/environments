@@ -1,8 +1,14 @@
+# AI Environment
 
-# ai Environment
-
-This environment is equipped with ai tools and SDKs.
+This environment is equipped with AI tools and SDKs.
 
 ## Community Notebooks
 
-- [Quickstart Notebook](./quickstart.ipynb)
+| Notebook | Description |
+| -------- | ----------- |
+| [Quickstart Notebook](./quickstart.ipynb) | A quickstart guide for this environment. |
+
+### Third-party Notebooks and Repositories
+
+| Notebook | Repository | Description |
+| -------- | ---------- | ----------- |
