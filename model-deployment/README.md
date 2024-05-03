@@ -1,0 +1,10 @@
+# Model Deployment
+
+The Model Deployment environments are designed for various model deployment tools and libraries. These include environments for Gradio, Modelbit, and Streamlit, each equipped with the necessary tools for efficient model deployment and user interface creation. They provide a streamlined experience for tasks such as creating customizable UI components around your models, working with the Modelbit package and ecosystem, and using Streamlit, an open-source app framework for Machine Learning and Data Science teams.
+
+| Environment | Description | Quickstart |
+|-------------|-------------|------------|
+| [gradio](./gradio) | Environment equipped with the tools and SDKs for working with Gradio, a library for quickly creating customizable UI components around your models. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fmodel-deployment/gradio/quickstart.ipynb&branch=main) |
+| [modelbit](./modelbit) | Environment for the Modelbit package and ecosystem, including modelbit and exploratory packages like sklearn. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fmodel-deployment/modelbit/quickstart.ipynb&branch=main) |
+| [streamlit](./streamlit) | Environment equipped with the tools and SDKs for working with Streamlit, an open-source app framework for Machine Learning and Data Science teams. | [![Open In American Data Science](https://dashboard.amdatascience.com/images/shieldio-badge.svg)](https://lab.amdatascience.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Famericandatascience%2Fenvironments&urlpath=lab%2Ftree%2Fenvironments%2Fmodel-deployment/streamlit/quickstart.ipynb&branch=main) |
+
